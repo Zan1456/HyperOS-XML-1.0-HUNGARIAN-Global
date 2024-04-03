@@ -32,7 +32,6 @@
     <string name="permlab_downloadManager">Letöltések elérése.</string>
     <string name="permlab_downloadManagerAdvanced">Letöltések haladó funkciói.</string>
     <string name="permlab_downloadWithoutNotification">Fájlok letöltése értesítés nélkül</string>
-    <string name="permlab_seeAllExternal">Az összes letöltés megjelenítése az USB háttértáron</string>
     <string name="root_downloads">Letöltések</string>
     <string name="wifi_recommended_body">"Ekkora fájl (%1$s ) letöltése lerövidíti az akkumulátor élettartamát és/vagy a mobiladat-kapcsolat túlzott használatához vezet, ami az Ön tervezett adatfogalmától függően újabb költségeket okozhat mobilszámláján.
 

@@ -40,14 +40,14 @@
     </string-array>
     <string-array name="daily_brand">
         <item>Egyéni</item>
-        <item>Mi Fan kártya</item>
+        <item>Xiaomi Fan kártya</item>
         <item>Xiao Tiansheng kártya</item>
         <item>Tencent King kártya</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Egyéni</item>
         <item>Mi Mobil</item>
-        <item>Mi Fan kártya</item>
+        <item>Xiaomi Fan kártya</item>
         <item>Tianshen kártya</item>
         <item>Tencent kártya</item>
     </string-array>
@@ -88,6 +88,15 @@
         <item>Az alkalmazások készülékre való telepítése engedélyezésre kerül az Ön kifejezett engedélye nélkül.</item>
         <item>Megfigyelheti és rögzítheti távolrül a kijelzőn megtalálható tartalmakat.</item>
         <item>Hozzáférhet készülékének részletes adataihoz.</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25×</item>
+        <item>0,5×</item>
+        <item>0,75×</item>
+        <item>Normál</item>
+        <item>1,25×</item>
+        <item>1,5×</item>
+        <item>2×</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Legalacsonyabb</item>
@@ -178,15 +187,15 @@
         <item>Telefonegyenleg</item>
     </string-array>
     <string-array name="sort_title_new">
-        <item>Név szerinti rendezés</item>
-        <item>Használat gyakorisága szerinti rendezés</item>
-        <item>Felhasznált tárhely szerinti rendezés</item>
-        <item>Telepítés ideje szerinti rendezés</item>
+        <item>Rendezés az alkalmazás neve szerint</item>
+        <item>Rendezés a legutóbb használt szerint</item>
+        <item>Rendezés foglalt tárhely szerint</item>
+        <item>Rendezés a telepítés ideje szerint</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>Alkalmazás neve</item>
-        <item>Használat gyakorisága</item>
-        <item>Felhasznált tárhely</item>
+        <item>Mostanában használva</item>
+        <item>Foglalt tárhely</item>
         <item>Telepítés ideje</item>
     </string-array>
     <string-array name="tether_limit_warn_type">

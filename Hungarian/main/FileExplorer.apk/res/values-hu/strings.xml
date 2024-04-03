@@ -475,11 +475,13 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
     <string name="miuix_appcompat_select_all_description">Összes kijelölése</string>
     <string name="miuix_appcompat_select_item">Elemek kiválasztása</string>
+    <string name="miuix_item_view_role_description">Lap</string>
     <string name="miuix_navigator_content_switch_description">Oldalsáv megjelenítése</string>
     <string name="miuix_navigator_multiple_choice">Kiválaszt</string>
     <string name="miuix_navigator_navigator_switch_description">Oldalsáv elrejtése</string>
